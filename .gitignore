@@ -1,0 +1,6 @@
+.ipynp_checkpoints/
+*.pyc
+*.zip
+.ipynb_checkpoints
+data/
+input/
